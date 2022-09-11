@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository and in this repository was created a simple APi containing a CRUD user system with mongodb connection.
 
 ## Installation
 
@@ -33,6 +33,8 @@ $ npm install
 ```
 
 ## Running the app
+
+Rename ``example.env`` to ``.env`` and insert your MongoDB Cluster URL. To be able to store users data.
 
 ```bash
 # development
